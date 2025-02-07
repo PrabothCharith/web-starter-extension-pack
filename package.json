@@ -1,0 +1,36 @@
+{
+  "name": "web-starter-extension-pack",
+  "displayName": "Web Starter Extension Pack",
+  "description": "Essential VS Code extensions for fast and efficient web development with HTML, CSS, JavaScript, Git, and PHP.",
+  "publisher": "PrabothCharith",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.9.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "atommaterial.a-file-icon-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "kamikillerto.vscode-colorize",
+    "vinirossa.vscode-gitandgithub-pack",
+    "4a454646.github-purple",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "ritwickdey.LiveServer",
+    "yzhang.markdown-all-in-one",
+    "ziyasal.vscode-open-in-github",
+    "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss",
+    "jkjustjoshing.vscode-text-pastry"
+  ],
+  "dependencies": {
+    "vsce": "^2.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrabothCharith/web-starter-extension-pack.git"
+  }
+}

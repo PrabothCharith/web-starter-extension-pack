@@ -3,7 +3,8 @@
   "displayName": "Web Starter Extension Pack",
   "description": "Essential VS Code extensions for fast and efficient web development with HTML, CSS, JavaScript, Git, and PHP.",
   "publisher": "PrabothCharith",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.9.0"
   },
